@@ -2,7 +2,7 @@ import google.generativeai as genai
 import pandas as pd
 
 # Load API Key
-genai.configure(api_key="AIzaSyCezzX-vgWa0ZQ8_gr5HrbVpP_CERW9hNQ")
+genai.configure(api_key="Your_api_key_here")
 
 # Load Processed Data
 df = pd.read_csv("k8s_processed_data.csv")

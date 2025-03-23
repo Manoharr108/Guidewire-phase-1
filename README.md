@@ -128,6 +128,6 @@ MIT License 📜
 ---
 
 ## **Author**  
-👨‍💻 Your Name  
-📧 your.email@example.com  
+👨‍💻 Manohar R
+📧 manohar2004gr@gmail.com
 📌 GitHub: [YourGitHub](https://github.com/manoharr108)  
